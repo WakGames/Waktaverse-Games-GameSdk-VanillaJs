@@ -1,5 +1,5 @@
-# Waktaverse Games GameSDK (VanilaJs)
-VanilaJs (Browser) 사용자의 Waktaverse Games의 팬게임 연동 기능을 위한 클라이언트 모듈입니다.
+# Waktaverse Games GameSDK (VanillaJs)
+VanillaJs (Browser) 사용자의 Waktaverse Games의 팬게임 연동 기능을 위한 클라이언트 모듈입니다.
 
 ## SDK 사용법
 내용 준비 중
